@@ -5,3 +5,5 @@ pre-commit>=3.3.3
 pytest-mock>=3.11.1
 pytest>=7.4.0
 syrupy>=4.0.4
+opencv-python>=4.7.0.72
+
